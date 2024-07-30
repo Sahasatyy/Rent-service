@@ -1,0 +1,10 @@
+********************** Techno Property Nepal **********************
+                         RENTAL RECEIPT                           
+Customer Name: Sahas
+Kitta Numbers: 101
+Rental Durations:
+  -  500000 months
+Costs:
+  - Rs. 10
+Total Amount Due: Rs. 10
+Thank you for choosing Techno Property Nepal! Please come again.
